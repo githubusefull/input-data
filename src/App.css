@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin: 2%;
+  margin-left: 20%;
+  
+}
+
+th,
+td, input
+
+{
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 15px;
+}
+
+th,
+input
+
+{
+  background-color: rgb(117, 201, 250);
+  border-radius: 8px;
+}
+
+td, input {
+  background-color: rgb(205, 235, 253);
+  border-radius: 8px;
+
+}
+
+.search {
+  background-color: rgb(205, 235, 253);
+  font-size: 15px;
+  width: 250px;
+  margin: 2px;
+
+}
